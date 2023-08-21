@@ -63,3 +63,7 @@ color: beige;
 .loading > .spinner-grow:nth-child(3) {
   animation-delay: 100ms;
 }
+.font-color{
+  color: white;
+  margin-left: 25px;
+}
